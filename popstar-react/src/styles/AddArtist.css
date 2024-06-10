@@ -1,0 +1,17 @@
+.form-group {
+    padding: 1rem;
+}
+
+.add-artist {
+    background-color: white;
+    padding: 2rem 1rem 2rem 1rem;
+    margin: 10rem auto auto auto;
+    width: fit-content;
+    border-radius: 12px;
+}
+
+.add-artist form {
+    margin: auto;
+    padding:auto;
+    width:fit-content;
+}
